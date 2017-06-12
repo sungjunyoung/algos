@@ -1,0 +1,7 @@
+# Go linting
+golang-go
+ghc-mod
+hlint
+
+# Node and npm
+nodejs
